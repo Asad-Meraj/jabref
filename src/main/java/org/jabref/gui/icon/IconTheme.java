@@ -244,6 +244,7 @@ public class IconTheme {
         APPLICATION_WINEDT(JabRefMaterialDesignIcon.WINEDT),
         KEY_BINDINGS(MaterialDesignIcon.KEYBOARD),
         FIND_DUPLICATES(MaterialDesignIcon.CODE_EQUAL),
+        NON_DUPLICATES(MaterialDesignIcon.CODE_EQUAL),
         CONNECT_DB(MaterialDesignIcon.CLOUD_UPLOAD),
         SUCCESS(MaterialDesignIcon.CHECK_CIRCLE),
         CHECK(MaterialDesignIcon.CHECK),
